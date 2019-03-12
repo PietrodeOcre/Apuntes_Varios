@@ -1,0 +1,11 @@
+Voy a escribir aquí cosillas interesantes de aquello que encuentre en el 
+día a día trasteando con linux, versión Xubuntu 18.04
+
+apt-clone es un programa ideal para clonar los programas instalados en 
+tu pc cuando te mudas a otra máquina. Funciona en ubuntu y en sus derivados.
+-sudo apt install apt-clone //Para instalarlo
+-sudo apt-clone clone nombreArchivo //Creamos un archivo que contiene la lista 
+//De aquellos prgramas instalados en tu pc con apt (casi todos)
+-sudo apt-clone restore nombreArchivo //Restauramos en la máquina nueva ese listado
+//Se isntalaran todos los programas automaticamente, de los que ya tengas dependencias instaladas, también las dependencias
+
