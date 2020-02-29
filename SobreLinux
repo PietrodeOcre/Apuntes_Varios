@@ -9,3 +9,6 @@ tu pc cuando te mudas a otra máquina. Funciona en ubuntu y en sus derivados.
 -sudo apt-clone restore nombreArchivo //Restauramos en la máquina nueva ese listado
 //Se isntalaran todos los programas automaticamente, de los que ya tengas dependencias instaladas, también las dependencias
 
+//Si usamos el comando 
+history 
+//Linux nos suelta tooooodos los comandos que hayamos escrito en nuestra distribución
